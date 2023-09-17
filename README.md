@@ -2,6 +2,10 @@
 
 This is a Twitter clone code-along in Scrimba's Frontend Developer Path, from Module 5 regarding JavaScript.
 
+Deployed on Netlify after initial upload:
+
+https://lucky-faloodeh-fc6cf7.netlify.app/
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
